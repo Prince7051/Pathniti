@@ -1,0 +1,36 @@
+# Supabase Keep-Alive Configuration
+# Simple YAML configuration for database connection management
+
+supabase:
+  keep_alive:
+    enabled: true
+    interval: 12h
+    timeout: 10s
+    retry_attempts: 3
+    auto_start: true
+    
+  connection:
+    pool_size: 10
+    idle_timeout: 300s
+    max_lifetime: 3600s
+    
+  monitoring:
+    health_check: true
+    log_level: info
+    metrics: true
+    
+  endpoints:
+    status: "/api/health"
+    ping: "/api/ping"
+    
+  environment:
+    production:
+      interval: 12h
+      timeout: 15s
+      retry_attempts: 5
+      
+    development:
+      interval: 12h
+      timeout: 5s
+      retry_attempts: 2
+      log_level: debug

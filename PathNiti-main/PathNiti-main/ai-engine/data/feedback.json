@@ -1,0 +1,652 @@
+[
+  {
+    "feedback_id": "aef32504-5b4f-4ac2-b0c3-528f7cc57914",
+    "user_id": "user_0",
+    "session_id": "session_0",
+    "feedback_type": "college",
+    "rating": 3,
+    "comment": null,
+    "context": {
+      "feature": "feature_0"
+    },
+    "timestamp": "2025-09-17T11:39:34.150232",
+    "processed": false
+  },
+  {
+    "feedback_id": "95fd16d5-8872-43fa-91ff-ad13fa3e7e50",
+    "user_id": "user_1",
+    "session_id": "session_1",
+    "feedback_type": "college",
+    "rating": 3,
+    "comment": "Could be more accurate",
+    "context": {
+      "feature": "feature_1"
+    },
+    "timestamp": "2025-09-17T11:39:34.150645",
+    "processed": false
+  },
+  {
+    "feedback_id": "d1e17652-9fd0-4a2a-a828-352d226bf516",
+    "user_id": "user_2",
+    "session_id": "session_2",
+    "feedback_type": "career",
+    "rating": 3,
+    "comment": "Could be more accurate",
+    "context": {
+      "feature": "feature_2"
+    },
+    "timestamp": "2025-09-17T11:39:34.150893",
+    "processed": false
+  },
+  {
+    "feedback_id": "267253c6-0804-4aaa-a548-0260f8c67404",
+    "user_id": "user_3",
+    "session_id": "session_3",
+    "feedback_type": "college",
+    "rating": 1,
+    "comment": "Great recommendations!",
+    "context": {
+      "feature": "feature_3"
+    },
+    "timestamp": "2025-09-17T11:39:34.151113",
+    "processed": false
+  },
+  {
+    "feedback_id": "be273d45-a8ac-4d9d-a221-0d693bebca77",
+    "user_id": "user_4",
+    "session_id": "session_4",
+    "feedback_type": "career",
+    "rating": 4,
+    "comment": "Excellent user experience",
+    "context": {
+      "feature": "feature_4"
+    },
+    "timestamp": "2025-09-17T11:39:34.151326",
+    "processed": false
+  },
+  {
+    "feedback_id": "9ebda648-5e14-46e7-9083-de3acf6a9b40",
+    "user_id": "user_5",
+    "session_id": "session_5",
+    "feedback_type": "college",
+    "rating": 3,
+    "comment": null,
+    "context": {
+      "feature": "feature_0"
+    },
+    "timestamp": "2025-09-17T11:39:34.151541",
+    "processed": false
+  },
+  {
+    "feedback_id": "0ac29d8d-6654-45a6-99cc-04ee440aeba9",
+    "user_id": "user_6",
+    "session_id": "session_6",
+    "feedback_type": "quiz",
+    "rating": 5,
+    "comment": "Excellent user experience",
+    "context": {
+      "feature": "feature_1"
+    },
+    "timestamp": "2025-09-17T11:39:34.151822",
+    "processed": false
+  },
+  {
+    "feedback_id": "ef01bba3-cd37-4c00-9b94-c1757d546335",
+    "user_id": "user_7",
+    "session_id": "session_7",
+    "feedback_type": "recommendation",
+    "rating": 4,
+    "comment": "Great recommendations!",
+    "context": {
+      "feature": "feature_2"
+    },
+    "timestamp": "2025-09-17T11:39:34.152105",
+    "processed": false
+  },
+  {
+    "feedback_id": "fc951bda-5222-4d02-b768-a862af119a4c",
+    "user_id": "user_8",
+    "session_id": "session_8",
+    "feedback_type": "recommendation",
+    "rating": 2,
+    "comment": "Could be more accurate",
+    "context": {
+      "feature": "feature_3"
+    },
+    "timestamp": "2025-09-17T11:39:34.152386",
+    "processed": false
+  },
+  {
+    "feedback_id": "a05f5e00-7b74-4d70-ab0e-61a5eec42022",
+    "user_id": "user_9",
+    "session_id": "session_9",
+    "feedback_type": "college",
+    "rating": 3,
+    "comment": null,
+    "context": {
+      "feature": "feature_4"
+    },
+    "timestamp": "2025-09-17T11:39:34.152697",
+    "processed": false
+  },
+  {
+    "feedback_id": "9c3187c7-48b3-43bd-836a-eb91cb619331",
+    "user_id": "user_10",
+    "session_id": "session_10",
+    "feedback_type": "career",
+    "rating": 4,
+    "comment": "Missing some information",
+    "context": {
+      "feature": "feature_0"
+    },
+    "timestamp": "2025-09-17T11:39:34.153091",
+    "processed": false
+  },
+  {
+    "feedback_id": "275a2142-b7a0-4d8c-98f7-44c4650ece8f",
+    "user_id": "user_11",
+    "session_id": "session_11",
+    "feedback_type": "college",
+    "rating": 2,
+    "comment": "Excellent user experience",
+    "context": {
+      "feature": "feature_1"
+    },
+    "timestamp": "2025-09-17T11:39:34.153444",
+    "processed": false
+  },
+  {
+    "feedback_id": "693b020a-f5fe-40b2-97c4-c61c490b61c2",
+    "user_id": "user_12",
+    "session_id": "session_12",
+    "feedback_type": "career",
+    "rating": 1,
+    "comment": "Missing some information",
+    "context": {
+      "feature": "feature_2"
+    },
+    "timestamp": "2025-09-17T11:39:34.153809",
+    "processed": false
+  },
+  {
+    "feedback_id": "acec21c8-3234-49fa-9920-8ed8c8f5ce19",
+    "user_id": "user_13",
+    "session_id": "session_13",
+    "feedback_type": "recommendation",
+    "rating": 3,
+    "comment": "Loading is slow",
+    "context": {
+      "feature": "feature_3"
+    },
+    "timestamp": "2025-09-17T11:39:34.154225",
+    "processed": false
+  },
+  {
+    "feedback_id": "4717330e-8b8a-47bd-a48e-5e36c9305043",
+    "user_id": "user_14",
+    "session_id": "session_14",
+    "feedback_type": "quiz",
+    "rating": 3,
+    "comment": null,
+    "context": {
+      "feature": "feature_4"
+    },
+    "timestamp": "2025-09-17T11:39:34.154699",
+    "processed": false
+  },
+  {
+    "feedback_id": "600000b7-a5ed-4006-a7e2-e4975ebac408",
+    "user_id": "user_15",
+    "session_id": "session_15",
+    "feedback_type": "recommendation",
+    "rating": 1,
+    "comment": "Love the new features",
+    "context": {
+      "feature": "feature_0"
+    },
+    "timestamp": "2025-09-17T11:39:34.155229",
+    "processed": false
+  },
+  {
+    "feedback_id": "51992c51-6a3a-4a32-9156-674d8e2d22e4",
+    "user_id": "user_16",
+    "session_id": "session_16",
+    "feedback_type": "career",
+    "rating": 5,
+    "comment": "Great recommendations!",
+    "context": {
+      "feature": "feature_1"
+    },
+    "timestamp": "2025-09-17T11:39:34.155695",
+    "processed": false
+  },
+  {
+    "feedback_id": "960791b7-6164-4845-8e55-4d55112e5739",
+    "user_id": "user_17",
+    "session_id": "session_17",
+    "feedback_type": "career",
+    "rating": 3,
+    "comment": "Love the new features",
+    "context": {
+      "feature": "feature_2"
+    },
+    "timestamp": "2025-09-17T11:39:34.156214",
+    "processed": false
+  },
+  {
+    "feedback_id": "2da5970a-7d5e-4923-b7c5-b3f30b53c7ff",
+    "user_id": "user_18",
+    "session_id": "session_18",
+    "feedback_type": "quiz",
+    "rating": 4,
+    "comment": "Very helpful quiz",
+    "context": {
+      "feature": "feature_3"
+    },
+    "timestamp": "2025-09-17T11:39:34.156720",
+    "processed": false
+  },
+  {
+    "feedback_id": "7237c490-2f8b-446d-a47a-df24686942bb",
+    "user_id": "user_19",
+    "session_id": "session_19",
+    "feedback_type": "career",
+    "rating": 4,
+    "comment": "Very helpful quiz",
+    "context": {
+      "feature": "feature_4"
+    },
+    "timestamp": "2025-09-17T11:39:34.157213",
+    "processed": false
+  },
+  {
+    "feedback_id": "5894eb49-5847-4e08-9586-677bfa05fccc",
+    "user_id": "user_20",
+    "session_id": "session_20",
+    "feedback_type": "career",
+    "rating": 3,
+    "comment": "Missing some information",
+    "context": {
+      "feature": "feature_0"
+    },
+    "timestamp": "2025-09-17T11:39:34.157704",
+    "processed": false
+  },
+  {
+    "feedback_id": "94afc58a-d47b-46dc-9551-be006692714f",
+    "user_id": "user_21",
+    "session_id": "session_21",
+    "feedback_type": "general",
+    "rating": 3,
+    "comment": "Great recommendations!",
+    "context": {
+      "feature": "feature_1"
+    },
+    "timestamp": "2025-09-17T11:39:34.158254",
+    "processed": false
+  },
+  {
+    "feedback_id": "630bff20-afa6-4c45-9802-bbd486d832a8",
+    "user_id": "user_22",
+    "session_id": "session_22",
+    "feedback_type": "recommendation",
+    "rating": 4,
+    "comment": "Love the new features",
+    "context": {
+      "feature": "feature_2"
+    },
+    "timestamp": "2025-09-17T11:39:34.158811",
+    "processed": false
+  },
+  {
+    "feedback_id": "e9717c14-32df-49d4-bf0d-7923bdba6177",
+    "user_id": "user_23",
+    "session_id": "session_23",
+    "feedback_type": "recommendation",
+    "rating": 1,
+    "comment": "Missing some information",
+    "context": {
+      "feature": "feature_3"
+    },
+    "timestamp": "2025-09-17T11:39:34.159660",
+    "processed": false
+  },
+  {
+    "feedback_id": "014ff2a3-b88e-4805-abd0-f7fa8f893a72",
+    "user_id": "user_24",
+    "session_id": "session_24",
+    "feedback_type": "recommendation",
+    "rating": 1,
+    "comment": "Confusing interface",
+    "context": {
+      "feature": "feature_4"
+    },
+    "timestamp": "2025-09-17T11:39:34.160217",
+    "processed": false
+  },
+  {
+    "feedback_id": "bf29341f-3740-47b9-9870-9f93ff6e78c7",
+    "user_id": "user_25",
+    "session_id": "session_25",
+    "feedback_type": "recommendation",
+    "rating": 5,
+    "comment": "Could be more accurate",
+    "context": {
+      "feature": "feature_0"
+    },
+    "timestamp": "2025-09-17T11:39:34.160834",
+    "processed": false
+  },
+  {
+    "feedback_id": "e53d0968-5789-4ff5-adfc-87769d0dd53f",
+    "user_id": "user_26",
+    "session_id": "session_26",
+    "feedback_type": "college",
+    "rating": 4,
+    "comment": "Love the new features",
+    "context": {
+      "feature": "feature_1"
+    },
+    "timestamp": "2025-09-17T11:39:34.161626",
+    "processed": false
+  },
+  {
+    "feedback_id": "cf462058-0bc9-488b-afe4-308218d41de3",
+    "user_id": "user_27",
+    "session_id": "session_27",
+    "feedback_type": "college",
+    "rating": 4,
+    "comment": "Confusing interface",
+    "context": {
+      "feature": "feature_2"
+    },
+    "timestamp": "2025-09-17T11:39:34.162358",
+    "processed": false
+  },
+  {
+    "feedback_id": "586fc4f9-7329-4f44-a93d-0c701b1c9e8a",
+    "user_id": "user_28",
+    "session_id": "session_28",
+    "feedback_type": "college",
+    "rating": 2,
+    "comment": "Missing some information",
+    "context": {
+      "feature": "feature_3"
+    },
+    "timestamp": "2025-09-17T11:39:34.163251",
+    "processed": false
+  },
+  {
+    "feedback_id": "80b190de-14f0-459b-9e75-55756bc9b450",
+    "user_id": "user_29",
+    "session_id": "session_29",
+    "feedback_type": "general",
+    "rating": 4,
+    "comment": null,
+    "context": {
+      "feature": "feature_4"
+    },
+    "timestamp": "2025-09-17T11:39:34.163981",
+    "processed": false
+  },
+  {
+    "feedback_id": "bbe9cfb1-f2f9-4897-97c3-76f99aa2f6cb",
+    "user_id": "user_30",
+    "session_id": "session_30",
+    "feedback_type": "general",
+    "rating": 5,
+    "comment": null,
+    "context": {
+      "feature": "feature_0"
+    },
+    "timestamp": "2025-09-17T11:39:34.164747",
+    "processed": false
+  },
+  {
+    "feedback_id": "ae37b504-49ef-46dc-8246-d4b1911619ac",
+    "user_id": "user_31",
+    "session_id": "session_31",
+    "feedback_type": "quiz",
+    "rating": 3,
+    "comment": null,
+    "context": {
+      "feature": "feature_1"
+    },
+    "timestamp": "2025-09-17T11:39:34.165454",
+    "processed": false
+  },
+  {
+    "feedback_id": "93b5e03a-0b74-415c-af8f-1791082e6084",
+    "user_id": "user_32",
+    "session_id": "session_32",
+    "feedback_type": "college",
+    "rating": 3,
+    "comment": "Missing some information",
+    "context": {
+      "feature": "feature_2"
+    },
+    "timestamp": "2025-09-17T11:39:34.166498",
+    "processed": false
+  },
+  {
+    "feedback_id": "8a2acdae-4076-478a-8f3a-43216794e033",
+    "user_id": "user_33",
+    "session_id": "session_33",
+    "feedback_type": "quiz",
+    "rating": 4,
+    "comment": null,
+    "context": {
+      "feature": "feature_3"
+    },
+    "timestamp": "2025-09-17T11:39:34.167239",
+    "processed": false
+  },
+  {
+    "feedback_id": "2d25174d-3984-48f9-bab7-52bc71efe0f2",
+    "user_id": "user_34",
+    "session_id": "session_34",
+    "feedback_type": "quiz",
+    "rating": 1,
+    "comment": "Loading is slow",
+    "context": {
+      "feature": "feature_4"
+    },
+    "timestamp": "2025-09-17T11:39:34.167999",
+    "processed": false
+  },
+  {
+    "feedback_id": "29bf8192-af55-447f-8525-a41e238125f9",
+    "user_id": "user_35",
+    "session_id": "session_35",
+    "feedback_type": "general",
+    "rating": 5,
+    "comment": null,
+    "context": {
+      "feature": "feature_0"
+    },
+    "timestamp": "2025-09-17T11:39:34.168739",
+    "processed": false
+  },
+  {
+    "feedback_id": "b1f7d218-6a0b-4850-9dec-31ffb1893411",
+    "user_id": "user_36",
+    "session_id": "session_36",
+    "feedback_type": "college",
+    "rating": 5,
+    "comment": "Could be more accurate",
+    "context": {
+      "feature": "feature_1"
+    },
+    "timestamp": "2025-09-17T11:39:34.169500",
+    "processed": false
+  },
+  {
+    "feedback_id": "95adc73f-5192-4cb5-912e-9d345384b7f8",
+    "user_id": "user_37",
+    "session_id": "session_37",
+    "feedback_type": "quiz",
+    "rating": 5,
+    "comment": "Excellent user experience",
+    "context": {
+      "feature": "feature_2"
+    },
+    "timestamp": "2025-09-17T11:39:34.170381",
+    "processed": false
+  },
+  {
+    "feedback_id": "666df8cd-3a96-436b-8047-7b6cd71587f5",
+    "user_id": "user_38",
+    "session_id": "session_38",
+    "feedback_type": "recommendation",
+    "rating": 3,
+    "comment": "Confusing interface",
+    "context": {
+      "feature": "feature_3"
+    },
+    "timestamp": "2025-09-17T11:39:34.172557",
+    "processed": false
+  },
+  {
+    "feedback_id": "b2be6a70-47fe-4d1e-b533-68debb2ba632",
+    "user_id": "user_39",
+    "session_id": "session_39",
+    "feedback_type": "career",
+    "rating": 2,
+    "comment": "Excellent user experience",
+    "context": {
+      "feature": "feature_4"
+    },
+    "timestamp": "2025-09-17T11:39:34.173408",
+    "processed": false
+  },
+  {
+    "feedback_id": "2087eda7-5412-4fc6-9fb5-e533b4e96abd",
+    "user_id": "user_40",
+    "session_id": "session_40",
+    "feedback_type": "general",
+    "rating": 4,
+    "comment": null,
+    "context": {
+      "feature": "feature_0"
+    },
+    "timestamp": "2025-09-17T11:39:34.174257",
+    "processed": false
+  },
+  {
+    "feedback_id": "873c3ffb-d237-4581-9ea3-a08ccaa0faf7",
+    "user_id": "user_41",
+    "session_id": "session_41",
+    "feedback_type": "general",
+    "rating": 2,
+    "comment": "Excellent user experience",
+    "context": {
+      "feature": "feature_1"
+    },
+    "timestamp": "2025-09-17T11:39:34.175200",
+    "processed": false
+  },
+  {
+    "feedback_id": "f4b129d2-56d2-4f5b-b696-2e23448440e3",
+    "user_id": "user_42",
+    "session_id": "session_42",
+    "feedback_type": "quiz",
+    "rating": 4,
+    "comment": "Could be more accurate",
+    "context": {
+      "feature": "feature_2"
+    },
+    "timestamp": "2025-09-17T11:39:34.176110",
+    "processed": false
+  },
+  {
+    "feedback_id": "edab8185-19d4-450f-ace1-1cd1e8daaf1e",
+    "user_id": "user_43",
+    "session_id": "session_43",
+    "feedback_type": "career",
+    "rating": 5,
+    "comment": null,
+    "context": {
+      "feature": "feature_3"
+    },
+    "timestamp": "2025-09-17T11:39:34.185544",
+    "processed": false
+  },
+  {
+    "feedback_id": "6788a29e-4e23-4d6d-b610-49bd355547be",
+    "user_id": "user_44",
+    "session_id": "session_44",
+    "feedback_type": "college",
+    "rating": 2,
+    "comment": null,
+    "context": {
+      "feature": "feature_4"
+    },
+    "timestamp": "2025-09-17T11:39:34.186514",
+    "processed": false
+  },
+  {
+    "feedback_id": "2080a818-b6ab-4e37-a881-ebf1dbf07a73",
+    "user_id": "user_45",
+    "session_id": "session_45",
+    "feedback_type": "quiz",
+    "rating": 4,
+    "comment": "Love the new features",
+    "context": {
+      "feature": "feature_0"
+    },
+    "timestamp": "2025-09-17T11:39:34.187427",
+    "processed": false
+  },
+  {
+    "feedback_id": "5305cd4e-04ef-4eff-b873-16398f1a74f5",
+    "user_id": "user_46",
+    "session_id": "session_46",
+    "feedback_type": "career",
+    "rating": 4,
+    "comment": null,
+    "context": {
+      "feature": "feature_1"
+    },
+    "timestamp": "2025-09-17T11:39:34.188339",
+    "processed": false
+  },
+  {
+    "feedback_id": "452de0d6-b76b-4f65-ae66-fd9c377af749",
+    "user_id": "user_47",
+    "session_id": "session_47",
+    "feedback_type": "recommendation",
+    "rating": 5,
+    "comment": null,
+    "context": {
+      "feature": "feature_2"
+    },
+    "timestamp": "2025-09-17T11:39:34.189276",
+    "processed": false
+  },
+  {
+    "feedback_id": "12e875a5-c349-4261-ac91-b4936a176027",
+    "user_id": "user_48",
+    "session_id": "session_48",
+    "feedback_type": "recommendation",
+    "rating": 5,
+    "comment": "Missing some information",
+    "context": {
+      "feature": "feature_3"
+    },
+    "timestamp": "2025-09-17T11:39:34.190162",
+    "processed": false
+  },
+  {
+    "feedback_id": "1deca498-c7d5-46e6-aae3-84074126db00",
+    "user_id": "user_49",
+    "session_id": "session_49",
+    "feedback_type": "college",
+    "rating": 5,
+    "comment": "Missing some information",
+    "context": {
+      "feature": "feature_4"
+    },
+    "timestamp": "2025-09-17T11:39:34.191502",
+    "processed": false
+  }
+]

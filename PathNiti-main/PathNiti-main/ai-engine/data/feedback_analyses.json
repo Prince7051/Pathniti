@@ -1,0 +1,82 @@
+[
+  {
+    "analysis_id": "95834497-fbe9-408c-b311-4eabb7c16b70",
+    "feedback_type": "recommendation",
+    "total_feedback": 11,
+    "average_rating": 3.090909090909091,
+    "sentiment_score": 0.16038961038961036,
+    "common_issues": [
+      "High number of low ratings",
+      "Missing Information",
+      "Usability Issues"
+    ],
+    "improvement_suggestions": [
+      "User satisfaction is moderate - focus on key pain points",
+      "Improve user interface and user experience design",
+      "Expand content and information coverage",
+      "Implement more personalized recommendation algorithms",
+      "Add more diverse recommendation options"
+    ],
+    "timestamp": "2025-09-17T11:39:34.192727"
+  },
+  {
+    "analysis_id": "9c06b08b-6b7c-4e06-a023-70bc6f1cc3f6",
+    "feedback_type": "quiz",
+    "total_feedback": 9,
+    "average_rating": 3.6666666666666665,
+    "sentiment_score": 0.5333333333333333,
+    "common_issues": ["Performance Issues"],
+    "improvement_suggestions": [
+      "User satisfaction is moderate - focus on key pain points",
+      "Optimize system performance and reduce loading times",
+      "Optimize quiz questions for better user engagement",
+      "Improve quiz result explanations",
+      "Add more interactive elements to the quiz"
+    ],
+    "timestamp": "2025-09-17T11:39:34.193818"
+  },
+  {
+    "analysis_id": "62c6a5a8-8984-4207-9742-752ff71cd7ef",
+    "feedback_type": "college",
+    "total_feedback": 13,
+    "average_rating": 3.076923076923077,
+    "sentiment_score": 0.2269230769230769,
+    "common_issues": ["High number of low ratings", "Missing Information"],
+    "improvement_suggestions": [
+      "User satisfaction is moderate - focus on key pain points",
+      "Expand content and information coverage",
+      "Enhance college search and filtering capabilities",
+      "Add more detailed college information",
+      "Improve college comparison features"
+    ],
+    "timestamp": "2025-09-17T11:39:34.194928"
+  },
+  {
+    "analysis_id": "81e290c8-9539-4e14-ba8c-449b80fdc37b",
+    "feedback_type": "career",
+    "total_feedback": 11,
+    "average_rating": 3.4545454545454546,
+    "sentiment_score": 0.4590909090909091,
+    "common_issues": ["Missing Information"],
+    "improvement_suggestions": [
+      "User satisfaction is moderate - focus on key pain points",
+      "Expand content and information coverage",
+      "Expand career information and pathways",
+      "Add more interactive career exploration tools",
+      "Improve career guidance and counseling features"
+    ],
+    "timestamp": "2025-09-17T11:39:34.195989"
+  },
+  {
+    "analysis_id": "71b4039a-4ba7-40c1-87fd-21c6094ee4c0",
+    "feedback_type": "general",
+    "total_feedback": 6,
+    "average_rating": 3.8333333333333335,
+    "sentiment_score": 0.5916666666666667,
+    "common_issues": [],
+    "improvement_suggestions": [
+      "User satisfaction is moderate - focus on key pain points"
+    ],
+    "timestamp": "2025-09-17T11:39:34.197150"
+  }
+]

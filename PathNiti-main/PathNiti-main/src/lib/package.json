@@ -1,0 +1,14 @@
+{
+  "name": "@pathniti/database",
+  "version": "1.0.0",
+  "description": "Database types and utilities for PathNiti",
+  "main": "index.ts",
+  "types": "index.ts",
+  "dependencies": {
+    "@supabase/supabase-js": "^2.38.0",
+    "@supabase/ssr": "^0.0.10"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}

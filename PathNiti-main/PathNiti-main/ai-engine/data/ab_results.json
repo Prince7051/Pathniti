@@ -1,0 +1,2102 @@
+[
+  {
+    "result_id": "76078073-196f-4e28-b59f-4f68a4b9b3c1",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_0",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.876668",
+    "metrics": {
+      "click_through_rate": 0.1691288621048495,
+      "conversion_rate": 0.08440434185376706,
+      "user_satisfaction": 3.8050337318328147,
+      "recommendation_accuracy": 0.8213823946882755,
+      "time_spent": 146.97947035836415
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "2567f44c-1c22-4a90-a4eb-febffc97d237",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_1",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.877884",
+    "metrics": {
+      "click_through_rate": 0.11957495257506334,
+      "conversion_rate": 0.06891023326367766,
+      "user_satisfaction": 3.7259958297093583,
+      "recommendation_accuracy": 0.7741545708133478,
+      "time_spent": 155.8624685878999
+    },
+    "user_profile": {
+      "age": 23,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "64518883-ec0e-4097-8471-65343d13bd4f",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_2",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.878881",
+    "metrics": {
+      "click_through_rate": 0.14234976713580405,
+      "conversion_rate": 0.09257755680436432,
+      "user_satisfaction": 3.992085489713942,
+      "recommendation_accuracy": 0.787041080584341,
+      "time_spent": 184.45173397788824
+    },
+    "user_profile": {
+      "age": 21,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "8bd414f3-8a74-40ec-b075-d6ec7e342c28",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_3",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:05.879743",
+    "metrics": {
+      "click_through_rate": 0.1789464577024394,
+      "conversion_rate": 0.12996937499554792,
+      "user_satisfaction": 4.369374099690349,
+      "recommendation_accuracy": 0.76479090872175,
+      "time_spent": 130.55083262344397
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "6223f2ab-b729-47c8-8a69-01ee02777b0e",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_4",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.880445",
+    "metrics": {
+      "click_through_rate": 0.21375519225781558,
+      "conversion_rate": 0.06715344659481398,
+      "user_satisfaction": 3.943039169218039,
+      "recommendation_accuracy": 0.7152894140547558,
+      "time_spent": 119.00766748814226
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "99958157-cd4b-48ff-b5eb-43150e12b134",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_5",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:05.881112",
+    "metrics": {
+      "click_through_rate": 0.22085494792646365,
+      "conversion_rate": 0.14263992184906887,
+      "user_satisfaction": 4.200256880899835,
+      "recommendation_accuracy": 0.7989661548805683,
+      "time_spent": 147.4684709826306
+    },
+    "user_profile": {
+      "age": 21,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "28223299-168a-4728-9d06-5853de4fde14",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_6",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.881897",
+    "metrics": {
+      "click_through_rate": 0.18332481218120422,
+      "conversion_rate": 0.07597794304186255,
+      "user_satisfaction": 4.250364058034641,
+      "recommendation_accuracy": 0.7695863431795128,
+      "time_spent": 119.73756736875748
+    },
+    "user_profile": {
+      "age": 19,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "7224326e-7ad8-4c02-9499-295277df463a",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_7",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.883033",
+    "metrics": {
+      "click_through_rate": 0.15481260961025392,
+      "conversion_rate": 0.13912449706772767,
+      "user_satisfaction": 3.8110387910917174,
+      "recommendation_accuracy": 0.8350198511577459,
+      "time_spent": 76.50503690658186
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "fd82d289-d0c2-4d94-bafd-0a33a40662e7",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_8",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.884109",
+    "metrics": {
+      "click_through_rate": 0.19984259478792027,
+      "conversion_rate": 0.129759848722515,
+      "user_satisfaction": 4.4281538028569285,
+      "recommendation_accuracy": 0.8053171697171375,
+      "time_spent": 98.8277395640778
+    },
+    "user_profile": {
+      "age": 16,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "1b48bcbc-41f4-44c7-8072-9f3c4890a143",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_9",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.885284",
+    "metrics": {
+      "click_through_rate": 0.1417427387794155,
+      "conversion_rate": 0.08091528260966899,
+      "user_satisfaction": 4.571831597901019,
+      "recommendation_accuracy": 0.718770005256612,
+      "time_spent": 87.87687090773696
+    },
+    "user_profile": {
+      "age": 21,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "0668db23-116d-4d02-9704-2f121315bff3",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_10",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.886579",
+    "metrics": {
+      "click_through_rate": 0.1319132318230616,
+      "conversion_rate": 0.06946909810856014,
+      "user_satisfaction": 4.238657483293591,
+      "recommendation_accuracy": 0.7586466433893163,
+      "time_spent": 185.3347337803084
+    },
+    "user_profile": {
+      "age": 19,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "49e0c485-d0f7-4131-a29c-d4b7e3f9d960",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_11",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:05.887548",
+    "metrics": {
+      "click_through_rate": 0.1926386874190571,
+      "conversion_rate": 0.17908609305533407,
+      "user_satisfaction": 4.489236039711947,
+      "recommendation_accuracy": 0.8480541412796194,
+      "time_spent": 196.394435912798
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "719bfebb-373c-4f7b-8b92-f357dfb10c11",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_12",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.888614",
+    "metrics": {
+      "click_through_rate": 0.13920765098083185,
+      "conversion_rate": 0.09283855745256545,
+      "user_satisfaction": 3.719304972623506,
+      "recommendation_accuracy": 0.650538336919915,
+      "time_spent": 121.72602221886757
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "5109664e-3ee9-46df-907e-62074b8cd5b7",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_13",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.889766",
+    "metrics": {
+      "click_through_rate": 0.18554125235991975,
+      "conversion_rate": 0.06525919659024197,
+      "user_satisfaction": 3.530831873905359,
+      "recommendation_accuracy": 0.7454174976740636,
+      "time_spent": 67.0009297382181
+    },
+    "user_profile": {
+      "age": 23,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "1ba5e849-a5c8-4138-b2b4-118681da7f40",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_14",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.890874",
+    "metrics": {
+      "click_through_rate": 0.10127087938526097,
+      "conversion_rate": 0.13160549239791014,
+      "user_satisfaction": 4.41864996870396,
+      "recommendation_accuracy": 0.7131468450638623,
+      "time_spent": 171.88509952216606
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "2956c215-fbd0-45b6-860b-15a13da8e3c5",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_15",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.892591",
+    "metrics": {
+      "click_through_rate": 0.15731282081192213,
+      "conversion_rate": 0.05128307239510027,
+      "user_satisfaction": 4.300849499388765,
+      "recommendation_accuracy": 0.7079735561697084,
+      "time_spent": 114.55467705626363
+    },
+    "user_profile": {
+      "age": 21,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "a6fca123-b667-4b79-a90e-4b17fbc9f16e",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_16",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.893795",
+    "metrics": {
+      "click_through_rate": 0.18471931003577474,
+      "conversion_rate": 0.09241717556011589,
+      "user_satisfaction": 3.8573418435060915,
+      "recommendation_accuracy": 0.6817028684492727,
+      "time_spent": 84.4551514274394
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "5e8aaa23-4541-48dd-b9b8-b2cc870ef432",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_17",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.895046",
+    "metrics": {
+      "click_through_rate": 0.1221606681651437,
+      "conversion_rate": 0.11908345217623341,
+      "user_satisfaction": 3.702779171242572,
+      "recommendation_accuracy": 0.6265581638744688,
+      "time_spent": 79.50937622658442
+    },
+    "user_profile": {
+      "age": 18,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "dc740e0a-2382-4f39-9f34-6b7147f30583",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_18",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.903500",
+    "metrics": {
+      "click_through_rate": 0.10747995412152653,
+      "conversion_rate": 0.11129839735279937,
+      "user_satisfaction": 4.147186117419993,
+      "recommendation_accuracy": 0.6951672079886562,
+      "time_spent": 67.06177721849795
+    },
+    "user_profile": {
+      "age": 20,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "669693a6-e7e4-4b57-95a8-6b7ced87f8cf",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_19",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.905745",
+    "metrics": {
+      "click_through_rate": 0.12633340934685883,
+      "conversion_rate": 0.15296070366272624,
+      "user_satisfaction": 3.9244274723602275,
+      "recommendation_accuracy": 0.7281800049533265,
+      "time_spent": 89.29050726973253
+    },
+    "user_profile": {
+      "age": 21,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "0d5361ec-c2cd-45da-a917-16b157b84406",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_20",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.908928",
+    "metrics": {
+      "click_through_rate": 0.12632577229987224,
+      "conversion_rate": 0.06107542578029856,
+      "user_satisfaction": 3.931458303471067,
+      "recommendation_accuracy": 0.7384809905248686,
+      "time_spent": 84.71141261448604
+    },
+    "user_profile": {
+      "age": 20,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "539f5e3a-f5fe-4911-b616-bc3ae38c3ecb",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_21",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.910863",
+    "metrics": {
+      "click_through_rate": 0.10931087361297409,
+      "conversion_rate": 0.13477694169808696,
+      "user_satisfaction": 3.813677717383369,
+      "recommendation_accuracy": 0.6573102466579974,
+      "time_spent": 76.01694352269236
+    },
+    "user_profile": {
+      "age": 20,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "6a3baf30-bf81-49ef-941f-f9a9156576b4",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_22",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.912681",
+    "metrics": {
+      "click_through_rate": 0.18774944135307825,
+      "conversion_rate": 0.09908705173402729,
+      "user_satisfaction": 3.8619360306918127,
+      "recommendation_accuracy": 0.6943843066529879,
+      "time_spent": 132.20806219507404
+    },
+    "user_profile": {
+      "age": 18,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "e6801636-784f-499c-ad76-a5bd41842729",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_23",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.914623",
+    "metrics": {
+      "click_through_rate": 0.1939115623765598,
+      "conversion_rate": 0.12216609698959015,
+      "user_satisfaction": 4.449041283420469,
+      "recommendation_accuracy": 0.7461664025459487,
+      "time_spent": 80.34949891024213
+    },
+    "user_profile": {
+      "age": 21,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "f0829146-e988-431f-b465-69f8766a4128",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_24",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.917634",
+    "metrics": {
+      "click_through_rate": 0.12214660294842844,
+      "conversion_rate": 0.1295312298408059,
+      "user_satisfaction": 4.0025413991043015,
+      "recommendation_accuracy": 0.6367050621271798,
+      "time_spent": 155.14886995362622
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "ddd4b95c-1341-4d45-9de7-ffddd9032c9c",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_25",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:05.920845",
+    "metrics": {
+      "click_through_rate": 0.24454887967506597,
+      "conversion_rate": 0.16974583333307802,
+      "user_satisfaction": 4.754675681076524,
+      "recommendation_accuracy": 0.7766249228472206,
+      "time_spent": 157.60532521023887
+    },
+    "user_profile": {
+      "age": 18,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "82ca3417-daf4-4216-b3b9-a572609248ab",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_26",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.923260",
+    "metrics": {
+      "click_through_rate": 0.1393209445263123,
+      "conversion_rate": 0.05619279435415711,
+      "user_satisfaction": 3.6490584146833873,
+      "recommendation_accuracy": 0.7080642028791906,
+      "time_spent": 118.74006633103463
+    },
+    "user_profile": {
+      "age": 21,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "a8444070-3961-4516-b440-2b35aed248d7",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_27",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:05.925834",
+    "metrics": {
+      "click_through_rate": 0.19372087631406978,
+      "conversion_rate": 0.08212706869551113,
+      "user_satisfaction": 4.009675880814126,
+      "recommendation_accuracy": 0.7717502208938747,
+      "time_spent": 129.6289126001634
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "f2338dbf-516e-4058-86a8-f8ca9757e35d",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_28",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.929509",
+    "metrics": {
+      "click_through_rate": 0.1564312264429781,
+      "conversion_rate": 0.1276255144327002,
+      "user_satisfaction": 4.114944235684433,
+      "recommendation_accuracy": 0.8050789890877263,
+      "time_spent": 182.80641491274002
+    },
+    "user_profile": {
+      "age": 19,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "f86d744e-70dd-4d17-b112-ef31813f0a03",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_29",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:05.931573",
+    "metrics": {
+      "click_through_rate": 0.24532605375094782,
+      "conversion_rate": 0.17678482267916895,
+      "user_satisfaction": 4.0707737872792285,
+      "recommendation_accuracy": 0.7107667783574901,
+      "time_spent": 91.09963298687458
+    },
+    "user_profile": {
+      "age": 23,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "a0be7483-6b83-4591-8b88-08aa695fd44b",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_30",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.934338",
+    "metrics": {
+      "click_through_rate": 0.18037331769878345,
+      "conversion_rate": 0.11070266233094953,
+      "user_satisfaction": 3.9791335275534196,
+      "recommendation_accuracy": 0.6592795097964602,
+      "time_spent": 134.73004397876775
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "3ff491de-014d-4488-8bf1-f974e2f7c048",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_31",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.937111",
+    "metrics": {
+      "click_through_rate": 0.1944580789817842,
+      "conversion_rate": 0.07209124311617933,
+      "user_satisfaction": 4.181522631131858,
+      "recommendation_accuracy": 0.7882800539390805,
+      "time_spent": 111.96966908637586
+    },
+    "user_profile": {
+      "age": 17,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "e46378f6-9a94-4384-806a-819c29498019",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_32",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.939381",
+    "metrics": {
+      "click_through_rate": 0.10137400200065237,
+      "conversion_rate": 0.09827194405376237,
+      "user_satisfaction": 4.189249719802312,
+      "recommendation_accuracy": 0.7326881477442349,
+      "time_spent": 82.22074883969827
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "61944666-6ee1-4cde-80dc-db9e66a3e0c8",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_33",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:05.941970",
+    "metrics": {
+      "click_through_rate": 0.22472721935864595,
+      "conversion_rate": 0.09327351096772309,
+      "user_satisfaction": 4.643844260501232,
+      "recommendation_accuracy": 0.7457843708492103,
+      "time_spent": 192.44090442097666
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "b92ba12d-ac65-4368-b7d3-7cbfe35e0c85",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_34",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.944293",
+    "metrics": {
+      "click_through_rate": 0.20811895408401135,
+      "conversion_rate": 0.06153433533930881,
+      "user_satisfaction": 3.839956176624138,
+      "recommendation_accuracy": 0.8467219153496452,
+      "time_spent": 101.42459221664198
+    },
+    "user_profile": {
+      "age": 21,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "bf7a93a3-7137-4069-922a-de87ae3cf761",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_35",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.946753",
+    "metrics": {
+      "click_through_rate": 0.16389165101957076,
+      "conversion_rate": 0.13238841981890603,
+      "user_satisfaction": 4.158762151778093,
+      "recommendation_accuracy": 0.7481317159125535,
+      "time_spent": 182.1779798685441
+    },
+    "user_profile": {
+      "age": 16,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "99ebce6a-b1a7-485d-80fa-b7dd4127903d",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_36",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.950214",
+    "metrics": {
+      "click_through_rate": 0.11457023785266664,
+      "conversion_rate": 0.07905008366028755,
+      "user_satisfaction": 4.224088420985062,
+      "recommendation_accuracy": 0.6143323809880802,
+      "time_spent": 124.03182582727696
+    },
+    "user_profile": {
+      "age": 19,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "427fa7c4-c14c-49a7-bb35-d34e174fa98a",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_37",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.952499",
+    "metrics": {
+      "click_through_rate": 0.11612857089048502,
+      "conversion_rate": 0.09465438092372289,
+      "user_satisfaction": 3.8195715588014982,
+      "recommendation_accuracy": 0.7930776213484574,
+      "time_spent": 144.06418573115235
+    },
+    "user_profile": {
+      "age": 23,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "a2aeccb1-2566-429f-aadc-13be284e9e17",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_38",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:05.954718",
+    "metrics": {
+      "click_through_rate": 0.22939666079105553,
+      "conversion_rate": 0.11214457456559647,
+      "user_satisfaction": 4.396176930406029,
+      "recommendation_accuracy": 0.8818075888286554,
+      "time_spent": 189.00061489077
+    },
+    "user_profile": {
+      "age": 21,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "803bb554-ab70-4867-a0a1-d3d833e8deb8",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_39",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:05.957077",
+    "metrics": {
+      "click_through_rate": 0.24803402156774595,
+      "conversion_rate": 0.10575527036004834,
+      "user_satisfaction": 4.388298087263884,
+      "recommendation_accuracy": 0.7134755118531866,
+      "time_spent": 173.48305285973987
+    },
+    "user_profile": {
+      "age": 19,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "e59d54f9-c666-4512-8bdd-eee750694541",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_40",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.960601",
+    "metrics": {
+      "click_through_rate": 0.16861834752176025,
+      "conversion_rate": 0.08371102456037828,
+      "user_satisfaction": 4.303082887164802,
+      "recommendation_accuracy": 0.751662111353262,
+      "time_spent": 142.88833270126617
+    },
+    "user_profile": {
+      "age": 23,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "2fba3ed8-24d4-423d-a142-940227ca5f5d",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_41",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.965460",
+    "metrics": {
+      "click_through_rate": 0.13969963343066638,
+      "conversion_rate": 0.06858887420462201,
+      "user_satisfaction": 3.7089680556344384,
+      "recommendation_accuracy": 0.6775954164344199,
+      "time_spent": 110.9824084859228
+    },
+    "user_profile": {
+      "age": 20,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "25b7531e-4ab1-4e5c-9159-bbd48e28b17a",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_42",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.972503",
+    "metrics": {
+      "click_through_rate": 0.11718263990338135,
+      "conversion_rate": 0.13534382975094877,
+      "user_satisfaction": 3.753891130490471,
+      "recommendation_accuracy": 0.7286397800918534,
+      "time_spent": 157.62444568410393
+    },
+    "user_profile": {
+      "age": 17,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "9af0aff9-fc69-4d99-a541-0fb196d57f90",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_43",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.977819",
+    "metrics": {
+      "click_through_rate": 0.17792191236605803,
+      "conversion_rate": 0.1561411453283055,
+      "user_satisfaction": 4.347458762076924,
+      "recommendation_accuracy": 0.7728529700743744,
+      "time_spent": 87.47883935564546
+    },
+    "user_profile": {
+      "age": 17,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "0205b1d3-a2a2-4ac9-ba12-2f0b65c2ff6d",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_44",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.982487",
+    "metrics": {
+      "click_through_rate": 0.15657487866496433,
+      "conversion_rate": 0.0651485099798217,
+      "user_satisfaction": 4.283959382423751,
+      "recommendation_accuracy": 0.74716570579231,
+      "time_spent": 97.47132226209455
+    },
+    "user_profile": {
+      "age": 17,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "e0bc0e5a-3dd0-4403-b523-372e2b724499",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_45",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.987561",
+    "metrics": {
+      "click_through_rate": 0.11781114703986084,
+      "conversion_rate": 0.08775897141874608,
+      "user_satisfaction": 4.180671931660847,
+      "recommendation_accuracy": 0.726439255309882,
+      "time_spent": 152.9978126335954
+    },
+    "user_profile": {
+      "age": 17,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "522d6ee4-f056-4762-b1ab-0d85d0eb6505",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_46",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.990250",
+    "metrics": {
+      "click_through_rate": 0.1539452139815617,
+      "conversion_rate": 0.11286228108160253,
+      "user_satisfaction": 4.081908114771464,
+      "recommendation_accuracy": 0.8432684008932452,
+      "time_spent": 121.76988400149048
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "1c600004-f8b4-440f-bbc6-32eba5cab82b",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_47",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:05.993050",
+    "metrics": {
+      "click_through_rate": 0.13681823619677036,
+      "conversion_rate": 0.07994066081459429,
+      "user_satisfaction": 4.225971931703029,
+      "recommendation_accuracy": 0.7729161763237324,
+      "time_spent": 113.13182106563053
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "aa399f36-e1c4-431b-9bf6-06cd492f050b",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_48",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:05.995911",
+    "metrics": {
+      "click_through_rate": 0.20987288583021196,
+      "conversion_rate": 0.10959604426376769,
+      "user_satisfaction": 4.4809412135815965,
+      "recommendation_accuracy": 0.8964536944670085,
+      "time_spent": 153.78499498361754
+    },
+    "user_profile": {
+      "age": 20,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "4cdf72c8-400d-475f-8325-53a8a0db1d69",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_49",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:05.998921",
+    "metrics": {
+      "click_through_rate": 0.18333059871267776,
+      "conversion_rate": 0.13091357348566374,
+      "user_satisfaction": 4.029774725411289,
+      "recommendation_accuracy": 0.8312583087821853,
+      "time_spent": 164.8085919550076
+    },
+    "user_profile": {
+      "age": 23,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "3fbf764a-b42d-4c7b-89b8-d15d3442cf12",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_50",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.002856",
+    "metrics": {
+      "click_through_rate": 0.1317568072104748,
+      "conversion_rate": 0.10797734265788089,
+      "user_satisfaction": 4.268742920879747,
+      "recommendation_accuracy": 0.832669272281278,
+      "time_spent": 131.6086704887529
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "3ecd428c-b0b6-4368-8e4a-b53d6d025cac",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_51",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.005685",
+    "metrics": {
+      "click_through_rate": 0.11787758748934929,
+      "conversion_rate": 0.0569044066326173,
+      "user_satisfaction": 3.7615885194773906,
+      "recommendation_accuracy": 0.6823911759399873,
+      "time_spent": 91.39447660107572
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "593c4347-a2bd-4254-b1b1-4b6c3f534c0f",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_52",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.008983",
+    "metrics": {
+      "click_through_rate": 0.2152780009672038,
+      "conversion_rate": 0.15696714393996586,
+      "user_satisfaction": 4.041911368298973,
+      "recommendation_accuracy": 0.7486533011041487,
+      "time_spent": 108.95481672915942
+    },
+    "user_profile": {
+      "age": 20,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "72a2c4ed-2422-4630-a4e7-2ff24ec49f20",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_53",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.012382",
+    "metrics": {
+      "click_through_rate": 0.1654008395486628,
+      "conversion_rate": 0.09478850599561287,
+      "user_satisfaction": 4.603531714652886,
+      "recommendation_accuracy": 0.8450021664324306,
+      "time_spent": 110.82913961147483
+    },
+    "user_profile": {
+      "age": 16,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "63b222b0-ca6e-4d42-8517-d9a4968f8a45",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_54",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.015374",
+    "metrics": {
+      "click_through_rate": 0.10715054451376936,
+      "conversion_rate": 0.11494381646855639,
+      "user_satisfaction": 4.480494293583869,
+      "recommendation_accuracy": 0.79318403582163,
+      "time_spent": 63.716513531189484
+    },
+    "user_profile": {
+      "age": 17,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "5c2bd552-56e2-4081-8781-2cd8c11e8945",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_55",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.018565",
+    "metrics": {
+      "click_through_rate": 0.1773278874119555,
+      "conversion_rate": 0.16292858952886163,
+      "user_satisfaction": 4.762540257881808,
+      "recommendation_accuracy": 0.7802027607716562,
+      "time_spent": 116.20687131348758
+    },
+    "user_profile": {
+      "age": 20,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "f1968cbf-f2f0-48ba-a540-e5925ecd14c0",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_56",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.021916",
+    "metrics": {
+      "click_through_rate": 0.10829579955903743,
+      "conversion_rate": 0.11204502667376534,
+      "user_satisfaction": 4.265547474052935,
+      "recommendation_accuracy": 0.7230551758778995,
+      "time_spent": 61.13011583653516
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "ea8b76b7-6d45-4b53-ab95-d63cd69acdb2",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_57",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.025268",
+    "metrics": {
+      "click_through_rate": 0.10901274115246508,
+      "conversion_rate": 0.08835820406508736,
+      "user_satisfaction": 4.147301596081122,
+      "recommendation_accuracy": 0.7211584396375946,
+      "time_spent": 154.09778816883446
+    },
+    "user_profile": {
+      "age": 16,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "0db1af80-8082-44db-8d9f-e5b93114c927",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_58",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.028904",
+    "metrics": {
+      "click_through_rate": 0.1549614830165872,
+      "conversion_rate": 0.12887494383222764,
+      "user_satisfaction": 4.063961812990101,
+      "recommendation_accuracy": 0.7209518500464993,
+      "time_spent": 152.7741989001555
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "7575d03b-16cc-4f20-94d3-bbb7c6d2669b",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_59",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.032234",
+    "metrics": {
+      "click_through_rate": 0.23536154468473683,
+      "conversion_rate": 0.0997130221800985,
+      "user_satisfaction": 4.759883117481079,
+      "recommendation_accuracy": 0.7080213754692518,
+      "time_spent": 167.5880079655869
+    },
+    "user_profile": {
+      "age": 21,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "a20a8660-f653-4607-9399-9effa6bf4321",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_60",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.036805",
+    "metrics": {
+      "click_through_rate": 0.19668984676807125,
+      "conversion_rate": 0.1640258328854094,
+      "user_satisfaction": 4.496347446848244,
+      "recommendation_accuracy": 0.7812000060401217,
+      "time_spent": 163.74812167602022
+    },
+    "user_profile": {
+      "age": 16,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "60558b65-fb3a-41e1-afa6-3b7c1e7ab1b7",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_61",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.042836",
+    "metrics": {
+      "click_through_rate": 0.21039293327531605,
+      "conversion_rate": 0.11372087135232647,
+      "user_satisfaction": 4.225856383883404,
+      "recommendation_accuracy": 0.832221904835554,
+      "time_spent": 158.31903509327338
+    },
+    "user_profile": {
+      "age": 17,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "f236eae4-0cb0-4bb0-a1ab-1f34e0271498",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_62",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.047379",
+    "metrics": {
+      "click_through_rate": 0.121223978827446,
+      "conversion_rate": 0.14237319381797264,
+      "user_satisfaction": 4.244475626098804,
+      "recommendation_accuracy": 0.7416548261545701,
+      "time_spent": 167.81172595067784
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "0eaa2cc2-fb9b-47a9-90b3-e2b4aa782923",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_63",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.051278",
+    "metrics": {
+      "click_through_rate": 0.1371586145453245,
+      "conversion_rate": 0.06219428208970904,
+      "user_satisfaction": 4.158652527896503,
+      "recommendation_accuracy": 0.8032238888300101,
+      "time_spent": 150.6626680451689
+    },
+    "user_profile": {
+      "age": 16,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "67507b2d-29e7-42b6-b7b7-d826e80b463b",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_64",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.056367",
+    "metrics": {
+      "click_through_rate": 0.14483937926728044,
+      "conversion_rate": 0.06410492725524894,
+      "user_satisfaction": 4.070157102689722,
+      "recommendation_accuracy": 0.6522251076015502,
+      "time_spent": 98.24847179419261
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "653e1764-d69a-4e6a-b5f9-bcdc4b75f02c",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_65",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.060106",
+    "metrics": {
+      "click_through_rate": 0.12424565559456294,
+      "conversion_rate": 0.13715225006387372,
+      "user_satisfaction": 4.496684362153364,
+      "recommendation_accuracy": 0.8247072044114389,
+      "time_spent": 182.74897864653474
+    },
+    "user_profile": {
+      "age": 19,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "a9877020-0a9d-4aeb-9668-ce05a5702cea",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_66",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.065570",
+    "metrics": {
+      "click_through_rate": 0.16543897188887105,
+      "conversion_rate": 0.13491559837119538,
+      "user_satisfaction": 3.8960541410231664,
+      "recommendation_accuracy": 0.8377379600088536,
+      "time_spent": 186.66932503217663
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "ba5ea2ca-8dcb-4d20-b148-042e37aca9bf",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_67",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.069840",
+    "metrics": {
+      "click_through_rate": 0.1899856946747395,
+      "conversion_rate": 0.07912673605787926,
+      "user_satisfaction": 4.253705808436942,
+      "recommendation_accuracy": 0.780632190466023,
+      "time_spent": 149.5584398756851
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "60a08ffc-7a86-4873-899b-1fc035fddfb5",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_68",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.073990",
+    "metrics": {
+      "click_through_rate": 0.13444041214963828,
+      "conversion_rate": 0.07622435524879442,
+      "user_satisfaction": 4.1332418215229,
+      "recommendation_accuracy": 0.7255960384732756,
+      "time_spent": 160.6192970592341
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "8807f375-df11-460d-ba79-13783badb0ad",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_69",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.079137",
+    "metrics": {
+      "click_through_rate": 0.21577513511365534,
+      "conversion_rate": 0.09939691919613108,
+      "user_satisfaction": 3.879364237744346,
+      "recommendation_accuracy": 0.7877300961873802,
+      "time_spent": 182.6322296895501
+    },
+    "user_profile": {
+      "age": 18,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "7ee91ae1-bea6-4c8f-80db-df46339747c3",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_70",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.083077",
+    "metrics": {
+      "click_through_rate": 0.11644664969218466,
+      "conversion_rate": 0.08340870246578984,
+      "user_satisfaction": 3.950387209451023,
+      "recommendation_accuracy": 0.788835524946705,
+      "time_spent": 117.29167099885225
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "b5cd8f4e-84bd-420f-bfc8-b15802526efc",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_71",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.087712",
+    "metrics": {
+      "click_through_rate": 0.16783368190330017,
+      "conversion_rate": 0.12946516845001155,
+      "user_satisfaction": 3.697845087016538,
+      "recommendation_accuracy": 0.76392027092048,
+      "time_spent": 179.81172041621403
+    },
+    "user_profile": {
+      "age": 17,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "f832defa-c923-45f6-a953-2f303acae4c9",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_72",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.092496",
+    "metrics": {
+      "click_through_rate": 0.2489768095326668,
+      "conversion_rate": 0.11213244019096995,
+      "user_satisfaction": 4.789946642867468,
+      "recommendation_accuracy": 0.8926365487146883,
+      "time_spent": 124.10014979512985
+    },
+    "user_profile": {
+      "age": 17,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "8632eaea-4888-43c5-9a35-cd628c49af6e",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_73",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.100437",
+    "metrics": {
+      "click_through_rate": 0.19655330111237906,
+      "conversion_rate": 0.10503573751271515,
+      "user_satisfaction": 4.179105706898603,
+      "recommendation_accuracy": 0.6483937151429019,
+      "time_spent": 161.2000531963315
+    },
+    "user_profile": {
+      "age": 23,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "e5890184-b2fe-40c6-9aad-8d9925216119",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_74",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.106008",
+    "metrics": {
+      "click_through_rate": 0.1083842997218639,
+      "conversion_rate": 0.07470413915960492,
+      "user_satisfaction": 4.351732933991071,
+      "recommendation_accuracy": 0.7590481726939926,
+      "time_spent": 128.09717238331422
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "31b95c75-c665-4fe3-b393-92b48ef7e78e",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_75",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.110321",
+    "metrics": {
+      "click_through_rate": 0.16251298736404562,
+      "conversion_rate": 0.1714729294306323,
+      "user_satisfaction": 4.2085052627560335,
+      "recommendation_accuracy": 0.7549172057343941,
+      "time_spent": 126.20918725042696
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "f65b038d-4ce5-461d-b7dc-d39cc77a8209",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_76",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.119132",
+    "metrics": {
+      "click_through_rate": 0.1982857390029743,
+      "conversion_rate": 0.143485295953092,
+      "user_satisfaction": 4.490721844895584,
+      "recommendation_accuracy": 0.8737494549309748,
+      "time_spent": 131.6555218329156
+    },
+    "user_profile": {
+      "age": 19,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "9665d00c-5c7b-470b-8ebb-9adf6d2362e8",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_77",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.131573",
+    "metrics": {
+      "click_through_rate": 0.1260358300619798,
+      "conversion_rate": 0.06259623501242698,
+      "user_satisfaction": 4.230730381563318,
+      "recommendation_accuracy": 0.8032437099172046,
+      "time_spent": 152.36091803534384
+    },
+    "user_profile": {
+      "age": 19,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "5b476daa-f91a-456b-8690-1f2c1643bea3",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_78",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.136156",
+    "metrics": {
+      "click_through_rate": 0.2026957314729022,
+      "conversion_rate": 0.14807686254491909,
+      "user_satisfaction": 4.59723996623929,
+      "recommendation_accuracy": 0.6771149498315799,
+      "time_spent": 108.510993598401
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "90abaffc-2219-4131-927d-35f24eb4263c",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_79",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.140958",
+    "metrics": {
+      "click_through_rate": 0.1848132477918525,
+      "conversion_rate": 0.17525866099803936,
+      "user_satisfaction": 4.304734033153988,
+      "recommendation_accuracy": 0.717522231029032,
+      "time_spent": 130.01586204123782
+    },
+    "user_profile": {
+      "age": 23,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "6ee330ad-1dd2-4c50-87bd-1d1c0f87b41a",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_80",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.145547",
+    "metrics": {
+      "click_through_rate": 0.1429072578295595,
+      "conversion_rate": 0.06419802260227504,
+      "user_satisfaction": 4.423648769759413,
+      "recommendation_accuracy": 0.6528542511846037,
+      "time_spent": 113.63025052897615
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "95a26350-93a7-4750-8200-257d060bab14",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_81",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.153161",
+    "metrics": {
+      "click_through_rate": 0.15016302021282768,
+      "conversion_rate": 0.1343077207519602,
+      "user_satisfaction": 4.6306025502333,
+      "recommendation_accuracy": 0.8415430656269605,
+      "time_spent": 151.40270197475502
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "16c5e8ea-bff3-4c86-9161-b575c9f880b6",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_82",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.158234",
+    "metrics": {
+      "click_through_rate": 0.16455851960959827,
+      "conversion_rate": 0.1214040612499196,
+      "user_satisfaction": 3.5934985800473553,
+      "recommendation_accuracy": 0.7009133083541109,
+      "time_spent": 94.9172923924172
+    },
+    "user_profile": {
+      "age": 23,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "93552567-212e-4417-afb2-e12d9c5a453b",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_83",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.165921",
+    "metrics": {
+      "click_through_rate": 0.23977942780383305,
+      "conversion_rate": 0.16220090239873722,
+      "user_satisfaction": 4.374554640677866,
+      "recommendation_accuracy": 0.898486187304642,
+      "time_spent": 176.03294892567888
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "c5f08c88-ab38-4747-ad5b-a5cd727b0b83",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_84",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.170406",
+    "metrics": {
+      "click_through_rate": 0.13695121449239483,
+      "conversion_rate": 0.06317453079316691,
+      "user_satisfaction": 4.5407729030661965,
+      "recommendation_accuracy": 0.7761971323593025,
+      "time_spent": 159.13631674278844
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "55155a82-b247-4646-a0a9-939fb45125cc",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_85",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.176267",
+    "metrics": {
+      "click_through_rate": 0.1979433638670018,
+      "conversion_rate": 0.09730075710377309,
+      "user_satisfaction": 4.319155947496646,
+      "recommendation_accuracy": 0.7950574606583597,
+      "time_spent": 115.53517702666645
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "461cd1b5-4e8b-4eca-b54d-1fa2fd76755b",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_86",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.183581",
+    "metrics": {
+      "click_through_rate": 0.14402245660219,
+      "conversion_rate": 0.1168019355020066,
+      "user_satisfaction": 4.245021610160027,
+      "recommendation_accuracy": 0.8304326649777367,
+      "time_spent": 169.9929626059655
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "871afade-149e-4d6f-a5ef-b26fa19026cb",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_87",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.192877",
+    "metrics": {
+      "click_through_rate": 0.12853059077369045,
+      "conversion_rate": 0.09086622952789332,
+      "user_satisfaction": 3.8274932434752795,
+      "recommendation_accuracy": 0.7967470370626241,
+      "time_spent": 109.90497161408749
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "f057d13a-b3f0-4b3f-9fd4-a821bed0670d",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_88",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.203547",
+    "metrics": {
+      "click_through_rate": 0.1788275303612247,
+      "conversion_rate": 0.15498515442822475,
+      "user_satisfaction": 4.4083313254294145,
+      "recommendation_accuracy": 0.7663403091788394,
+      "time_spent": 145.243169200232
+    },
+    "user_profile": {
+      "age": 19,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "30fc9620-1ded-402e-9d7c-b66e8f43a0a5",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_89",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.213546",
+    "metrics": {
+      "click_through_rate": 0.205540493366625,
+      "conversion_rate": 0.11384473513395985,
+      "user_satisfaction": 4.034608195957013,
+      "recommendation_accuracy": 0.8436842430186401,
+      "time_spent": 91.52110896740912
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "5d2befb7-08ff-4f10-9f4b-259879603bdb",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_90",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.225270",
+    "metrics": {
+      "click_through_rate": 0.16483043409874354,
+      "conversion_rate": 0.11654676974814432,
+      "user_satisfaction": 4.075575610497369,
+      "recommendation_accuracy": 0.7561273585682794,
+      "time_spent": 126.5171444080806
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "fad453ee-87a1-4aea-8840-6bebdaa00c9a",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_91",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.235623",
+    "metrics": {
+      "click_through_rate": 0.1688942837911226,
+      "conversion_rate": 0.15827221213075665,
+      "user_satisfaction": 4.6196337766060855,
+      "recommendation_accuracy": 0.718039959119779,
+      "time_spent": 91.67458094064564
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "42ddf677-5adf-44e0-a4d5-4140b525803c",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_92",
+    "variant": "hybrid",
+    "timestamp": "2025-09-17T11:39:06.241566",
+    "metrics": {
+      "click_through_rate": 0.13305257748377636,
+      "conversion_rate": 0.09707690063391747,
+      "user_satisfaction": 4.165972146918346,
+      "recommendation_accuracy": 0.8291472052515549,
+      "time_spent": 95.94552884058136
+    },
+    "user_profile": {
+      "age": 20,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "ad7c8da3-b473-46d2-98c0-ad78d1ffa55e",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_93",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.248661",
+    "metrics": {
+      "click_through_rate": 0.15817994442350608,
+      "conversion_rate": 0.08394224695189802,
+      "user_satisfaction": 4.224777361240252,
+      "recommendation_accuracy": 0.7006364617199988,
+      "time_spent": 181.44968935315165
+    },
+    "user_profile": {
+      "age": 23,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "69f73b00-8630-4dfa-ab61-f0674e824a14",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_94",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.253767",
+    "metrics": {
+      "click_through_rate": 0.21113564374954094,
+      "conversion_rate": 0.11950025609121026,
+      "user_satisfaction": 4.553599205740414,
+      "recommendation_accuracy": 0.8825440976956348,
+      "time_spent": 103.53186186680689
+    },
+    "user_profile": {
+      "age": 17,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "03f6d950-8740-4ea7-9189-dc9cb4c616ad",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_95",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.259811",
+    "metrics": {
+      "click_through_rate": 0.23885381277788753,
+      "conversion_rate": 0.10682442193946798,
+      "user_satisfaction": 4.784297576329163,
+      "recommendation_accuracy": 0.8698234145576418,
+      "time_spent": 107.0830830931277
+    },
+    "user_profile": {
+      "age": 22,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "fd1b7fb5-8219-4960-807a-00f8f7042af9",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_96",
+    "variant": "ml_enhanced",
+    "timestamp": "2025-09-17T11:39:06.266185",
+    "metrics": {
+      "click_through_rate": 0.21891722621369986,
+      "conversion_rate": 0.14760133225294542,
+      "user_satisfaction": 4.035395515092628,
+      "recommendation_accuracy": 0.7801099406668998,
+      "time_spent": 176.0107664642524
+    },
+    "user_profile": {
+      "age": 25,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "52a7712f-3ad1-414d-9f20-af6746ac8c71",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_97",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.271147",
+    "metrics": {
+      "click_through_rate": 0.15932266351928837,
+      "conversion_rate": 0.14338822503988644,
+      "user_satisfaction": 3.7688308125986407,
+      "recommendation_accuracy": 0.6496285175100058,
+      "time_spent": 154.1788626866811
+    },
+    "user_profile": {
+      "age": 21,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "097982b4-61d6-4ea5-a656-4d52a9ea9057",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_98",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.277322",
+    "metrics": {
+      "click_through_rate": 0.154760833508433,
+      "conversion_rate": 0.09758875291260936,
+      "user_satisfaction": 3.5849992250508045,
+      "recommendation_accuracy": 0.7956832939758838,
+      "time_spent": 99.77385441469926
+    },
+    "user_profile": {
+      "age": 20,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  },
+  {
+    "result_id": "2a9801f7-996c-49b2-9bd2-2421f77a2f9c",
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "user_id": "user_99",
+    "variant": "baseline",
+    "timestamp": "2025-09-17T11:39:06.282630",
+    "metrics": {
+      "click_through_rate": 0.12644444437736824,
+      "conversion_rate": 0.05904686283742788,
+      "user_satisfaction": 4.323970341515476,
+      "recommendation_accuracy": 0.7109607564404761,
+      "time_spent": 158.31413766994487
+    },
+    "user_profile": {
+      "age": 24,
+      "interests": ["technology"]
+    },
+    "recommendation_data": {
+      "recommendations": ["Software Engineer", "Data Scientist"]
+    }
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "test_id": "52ee3637-e0cd-4453-9d6d-167b9f6816f1",
+    "name": "Recommendation Algorithm Test",
+    "description": "Test different recommendation algorithms to improve user engagement",
+    "variants": [
+      {
+        "name": "baseline",
+        "description": "Current recommendation algorithm",
+        "algorithm": "rule_based",
+        "parameters": {}
+      },
+      {
+        "name": "ml_enhanced",
+        "description": "ML-enhanced recommendation algorithm",
+        "algorithm": "ml_based",
+        "parameters": {
+          "use_ml": true,
+          "confidence_threshold": 0.7
+        }
+      },
+      {
+        "name": "hybrid",
+        "description": "Hybrid approach combining rules and ML",
+        "algorithm": "hybrid",
+        "parameters": {
+          "ml_weight": 0.6,
+          "rule_weight": 0.4
+        }
+      }
+    ],
+    "traffic_split": [0.4, 0.3, 0.3],
+    "start_date": "2025-09-17T11:39:05.875339",
+    "end_date": "2025-10-17T11:39:05.874662",
+    "status": "running",
+    "metrics": [
+      "click_through_rate",
+      "conversion_rate",
+      "user_satisfaction",
+      "recommendation_accuracy",
+      "time_spent"
+    ],
+    "success_criteria": {
+      "click_through_rate": 0.15,
+      "user_satisfaction": 4.0,
+      "recommendation_accuracy": 0.8
+    },
+    "created_at": "2025-09-17T11:39:05.874662",
+    "updated_at": "2025-09-17T11:39:05.875340"
+  },
+  {
+    "test_id": "c6093090-4880-4f7c-bcfe-57d3736e1c12",
+    "name": "Recommendation Algorithm Test",
+    "description": "Test different recommendation algorithms to improve user engagement",
+    "variants": [
+      {
+        "name": "baseline",
+        "description": "Current recommendation algorithm",
+        "algorithm": "rule_based",
+        "parameters": {}
+      },
+      {
+        "name": "ml_enhanced",
+        "description": "ML-enhanced recommendation algorithm",
+        "algorithm": "ml_based",
+        "parameters": {
+          "use_ml": true,
+          "confidence_threshold": 0.7
+        }
+      },
+      {
+        "name": "hybrid",
+        "description": "Hybrid approach combining rules and ML",
+        "algorithm": "hybrid",
+        "parameters": {
+          "ml_weight": 0.6,
+          "rule_weight": 0.4
+        }
+      }
+    ],
+    "traffic_split": [0.4, 0.3, 0.3],
+    "start_date": "2025-09-17T11:40:13.405676",
+    "end_date": "2025-10-17T11:40:13.396903",
+    "status": "running",
+    "metrics": [
+      "click_through_rate",
+      "conversion_rate",
+      "user_satisfaction",
+      "recommendation_accuracy",
+      "time_spent"
+    ],
+    "success_criteria": {
+      "click_through_rate": 0.15,
+      "user_satisfaction": 4.0,
+      "recommendation_accuracy": 0.8
+    },
+    "created_at": "2025-09-17T11:40:13.396903",
+    "updated_at": "2025-09-17T11:40:13.405683"
+  },
+  {
+    "test_id": "0ce94ee4-d977-4692-b0d0-ea595171613e",
+    "name": "UI Enhancement Test",
+    "description": "Test enhanced UI to improve user engagement",
+    "variants": [
+      {
+        "name": "current_ui",
+        "description": "Current user interface",
+        "layout": "standard",
+        "features": ["basic_search", "filters"]
+      },
+      {
+        "name": "enhanced_ui",
+        "description": "Enhanced UI with better visualizations",
+        "layout": "enhanced",
+        "features": [
+          "advanced_search",
+          "filters",
+          "visualizations",
+          "recommendations"
+        ]
+      }
+    ],
+    "traffic_split": [0.5, 0.5],
+    "start_date": "2025-09-17T11:40:13.417680",
+    "end_date": "2025-10-01T11:40:13.413779",
+    "status": "running",
+    "metrics": [
+      "page_views",
+      "time_on_page",
+      "bounce_rate",
+      "user_engagement",
+      "feature_usage"
+    ],
+    "success_criteria": {
+      "time_on_page": 120,
+      "user_engagement": 0.7,
+      "bounce_rate": 0.3
+    },
+    "created_at": "2025-09-17T11:40:13.413779",
+    "updated_at": "2025-09-17T11:40:13.417685"
+  },
+  {
+    "test_id": "5667eb8d-a39b-46d6-9295-fa910aeca268",
+    "name": "Recommendation Algorithm Test",
+    "description": "Test different recommendation algorithms to improve user engagement",
+    "variants": [
+      {
+        "name": "baseline",
+        "description": "Current recommendation algorithm",
+        "algorithm": "rule_based",
+        "parameters": {}
+      },
+      {
+        "name": "ml_enhanced",
+        "description": "ML-enhanced recommendation algorithm",
+        "algorithm": "ml_based",
+        "parameters": {
+          "use_ml": true,
+          "confidence_threshold": 0.7
+        }
+      },
+      {
+        "name": "hybrid",
+        "description": "Hybrid approach combining rules and ML",
+        "algorithm": "hybrid",
+        "parameters": {
+          "ml_weight": 0.6,
+          "rule_weight": 0.4
+        }
+      }
+    ],
+    "traffic_split": [0.4, 0.3, 0.3],
+    "start_date": "2025-09-17T11:40:34.751077",
+    "end_date": "2025-10-17T11:40:34.747728",
+    "status": "running",
+    "metrics": [
+      "click_through_rate",
+      "conversion_rate",
+      "user_satisfaction",
+      "recommendation_accuracy",
+      "time_spent"
+    ],
+    "success_criteria": {
+      "click_through_rate": 0.15,
+      "user_satisfaction": 4.0,
+      "recommendation_accuracy": 0.8
+    },
+    "created_at": "2025-09-17T11:40:34.747728",
+    "updated_at": "2025-09-17T11:40:34.751081"
+  },
+  {
+    "test_id": "64a4959f-397b-40ac-b2aa-91cefd839c21",
+    "name": "UI Enhancement Test",
+    "description": "Test enhanced UI to improve user engagement",
+    "variants": [
+      {
+        "name": "current_ui",
+        "description": "Current user interface",
+        "layout": "standard",
+        "features": ["basic_search", "filters"]
+      },
+      {
+        "name": "enhanced_ui",
+        "description": "Enhanced UI with better visualizations",
+        "layout": "enhanced",
+        "features": [
+          "advanced_search",
+          "filters",
+          "visualizations",
+          "recommendations"
+        ]
+      }
+    ],
+    "traffic_split": [0.5, 0.5],
+    "start_date": "2025-09-17T11:40:34.756725",
+    "end_date": "2025-10-01T11:40:34.753857",
+    "status": "running",
+    "metrics": [
+      "page_views",
+      "time_on_page",
+      "bounce_rate",
+      "user_engagement",
+      "feature_usage"
+    ],
+    "success_criteria": {
+      "time_on_page": 120,
+      "user_engagement": 0.7,
+      "bounce_rate": 0.3
+    },
+    "created_at": "2025-09-17T11:40:34.753857",
+    "updated_at": "2025-09-17T11:40:34.756726"
+  },
+  {
+    "test_id": "7556530f-e7a5-4433-99ab-dec3ddb2e9fb",
+    "name": "Recommendation Algorithm Test",
+    "description": "Test different recommendation algorithms to improve user engagement",
+    "variants": [
+      {
+        "name": "baseline",
+        "description": "Current recommendation algorithm",
+        "algorithm": "rule_based",
+        "parameters": {}
+      },
+      {
+        "name": "ml_enhanced",
+        "description": "ML-enhanced recommendation algorithm",
+        "algorithm": "ml_based",
+        "parameters": {
+          "use_ml": true,
+          "confidence_threshold": 0.7
+        }
+      },
+      {
+        "name": "hybrid",
+        "description": "Hybrid approach combining rules and ML",
+        "algorithm": "hybrid",
+        "parameters": {
+          "ml_weight": 0.6,
+          "rule_weight": 0.4
+        }
+      }
+    ],
+    "traffic_split": [0.4, 0.3, 0.3],
+    "start_date": "2025-09-17T11:40:40.156011",
+    "end_date": "2025-10-17T11:40:40.152300",
+    "status": "running",
+    "metrics": [
+      "click_through_rate",
+      "conversion_rate",
+      "user_satisfaction",
+      "recommendation_accuracy",
+      "time_spent"
+    ],
+    "success_criteria": {
+      "click_through_rate": 0.15,
+      "user_satisfaction": 4.0,
+      "recommendation_accuracy": 0.8
+    },
+    "created_at": "2025-09-17T11:40:40.152300",
+    "updated_at": "2025-09-17T11:40:40.156014"
+  },
+  {
+    "test_id": "ef7e233c-2a2b-46a3-8485-23fe6760fcb1",
+    "name": "UI Enhancement Test",
+    "description": "Test enhanced UI to improve user engagement",
+    "variants": [
+      {
+        "name": "current_ui",
+        "description": "Current user interface",
+        "layout": "standard",
+        "features": ["basic_search", "filters"]
+      },
+      {
+        "name": "enhanced_ui",
+        "description": "Enhanced UI with better visualizations",
+        "layout": "enhanced",
+        "features": [
+          "advanced_search",
+          "filters",
+          "visualizations",
+          "recommendations"
+        ]
+      }
+    ],
+    "traffic_split": [0.5, 0.5],
+    "start_date": "2025-09-17T11:40:40.163188",
+    "end_date": "2025-10-01T11:40:40.159250",
+    "status": "running",
+    "metrics": [
+      "page_views",
+      "time_on_page",
+      "bounce_rate",
+      "user_engagement",
+      "feature_usage"
+    ],
+    "success_criteria": {
+      "time_on_page": 120,
+      "user_engagement": 0.7,
+      "bounce_rate": 0.3
+    },
+    "created_at": "2025-09-17T11:40:40.159250",
+    "updated_at": "2025-09-17T11:40:40.163190"
+  },
+  {
+    "test_id": "d9f4a103-6865-462b-97ad-8c54904dae7f",
+    "name": "Recommendation Algorithm Test",
+    "description": "Test different recommendation algorithms to improve user engagement",
+    "variants": [
+      {
+        "name": "baseline",
+        "description": "Current recommendation algorithm",
+        "algorithm": "rule_based",
+        "parameters": {}
+      },
+      {
+        "name": "ml_enhanced",
+        "description": "ML-enhanced recommendation algorithm",
+        "algorithm": "ml_based",
+        "parameters": {
+          "use_ml": true,
+          "confidence_threshold": 0.7
+        }
+      },
+      {
+        "name": "hybrid",
+        "description": "Hybrid approach combining rules and ML",
+        "algorithm": "hybrid",
+        "parameters": {
+          "ml_weight": 0.6,
+          "rule_weight": 0.4
+        }
+      }
+    ],
+    "traffic_split": [0.4, 0.3, 0.3],
+    "start_date": "2025-09-17T11:40:45.668968",
+    "end_date": "2025-10-17T11:40:45.665319",
+    "status": "running",
+    "metrics": [
+      "click_through_rate",
+      "conversion_rate",
+      "user_satisfaction",
+      "recommendation_accuracy",
+      "time_spent"
+    ],
+    "success_criteria": {
+      "click_through_rate": 0.15,
+      "user_satisfaction": 4.0,
+      "recommendation_accuracy": 0.8
+    },
+    "created_at": "2025-09-17T11:40:45.665319",
+    "updated_at": "2025-09-17T11:40:45.668971"
+  },
+  {
+    "test_id": "424d4b81-9a91-40a6-9117-e9c3cab2addf",
+    "name": "UI Enhancement Test",
+    "description": "Test enhanced UI to improve user engagement",
+    "variants": [
+      {
+        "name": "current_ui",
+        "description": "Current user interface",
+        "layout": "standard",
+        "features": ["basic_search", "filters"]
+      },
+      {
+        "name": "enhanced_ui",
+        "description": "Enhanced UI with better visualizations",
+        "layout": "enhanced",
+        "features": [
+          "advanced_search",
+          "filters",
+          "visualizations",
+          "recommendations"
+        ]
+      }
+    ],
+    "traffic_split": [0.5, 0.5],
+    "start_date": "2025-09-17T11:40:45.676193",
+    "end_date": "2025-10-01T11:40:45.672039",
+    "status": "running",
+    "metrics": [
+      "page_views",
+      "time_on_page",
+      "bounce_rate",
+      "user_engagement",
+      "feature_usage"
+    ],
+    "success_criteria": {
+      "time_on_page": 120,
+      "user_engagement": 0.7,
+      "bounce_rate": 0.3
+    },
+    "created_at": "2025-09-17T11:40:45.672039",
+    "updated_at": "2025-09-17T11:40:45.676197"
+  },
+  {
+    "test_id": "991a4983-9292-4243-902a-015909aa55f9",
+    "name": "Recommendation Algorithm Test",
+    "description": "Test different recommendation algorithms to improve user engagement",
+    "variants": [
+      {
+        "name": "baseline",
+        "description": "Current recommendation algorithm",
+        "algorithm": "rule_based",
+        "parameters": {}
+      },
+      {
+        "name": "ml_enhanced",
+        "description": "ML-enhanced recommendation algorithm",
+        "algorithm": "ml_based",
+        "parameters": {
+          "use_ml": true,
+          "confidence_threshold": 0.7
+        }
+      },
+      {
+        "name": "hybrid",
+        "description": "Hybrid approach combining rules and ML",
+        "algorithm": "hybrid",
+        "parameters": {
+          "ml_weight": 0.6,
+          "rule_weight": 0.4
+        }
+      }
+    ],
+    "traffic_split": [0.4, 0.3, 0.3],
+    "start_date": "2025-09-17T11:42:03.024634",
+    "end_date": "2025-10-17T11:42:03.017286",
+    "status": "running",
+    "metrics": [
+      "click_through_rate",
+      "conversion_rate",
+      "user_satisfaction",
+      "recommendation_accuracy",
+      "time_spent"
+    ],
+    "success_criteria": {
+      "click_through_rate": 0.15,
+      "user_satisfaction": 4.0,
+      "recommendation_accuracy": 0.8
+    },
+    "created_at": "2025-09-17T11:42:03.017286",
+    "updated_at": "2025-09-17T11:42:03.024639"
+  },
+  {
+    "test_id": "ff9a0abd-b896-44b9-8b67-a5de4d2ecef2",
+    "name": "UI Enhancement Test",
+    "description": "Test enhanced UI to improve user engagement",
+    "variants": [
+      {
+        "name": "current_ui",
+        "description": "Current user interface",
+        "layout": "standard",
+        "features": ["basic_search", "filters"]
+      },
+      {
+        "name": "enhanced_ui",
+        "description": "Enhanced UI with better visualizations",
+        "layout": "enhanced",
+        "features": [
+          "advanced_search",
+          "filters",
+          "visualizations",
+          "recommendations"
+        ]
+      }
+    ],
+    "traffic_split": [0.5, 0.5],
+    "start_date": "2025-09-17T11:42:03.036955",
+    "end_date": "2025-10-01T11:42:03.031718",
+    "status": "running",
+    "metrics": [
+      "page_views",
+      "time_on_page",
+      "bounce_rate",
+      "user_engagement",
+      "feature_usage"
+    ],
+    "success_criteria": {
+      "time_on_page": 120,
+      "user_engagement": 0.7,
+      "bounce_rate": 0.3
+    },
+    "created_at": "2025-09-17T11:42:03.031718",
+    "updated_at": "2025-09-17T11:42:03.036957"
+  }
+]

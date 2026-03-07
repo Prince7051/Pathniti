@@ -1,0 +1,7 @@
+<svg viewBox="0 0 100 100" xmlns="http://www.w3.org/2000/svg">
+  <!-- Clean background circle -->
+  <circle cx="50" cy="50" r="48" fill="#1A237E" stroke="#ffffff" stroke-width="2"/>
+  
+  <!-- Simple "P" letter -->
+  <text x="50" y="65" font-family="Inter, sans-serif" font-size="48" font-weight="700" text-anchor="middle" fill="white">P</text>
+</svg>
